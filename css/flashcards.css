@@ -1,0 +1,24 @@
+body{
+  background-color: #dddddd;
+}
+
+#definition{
+  display: none;
+}
+
+#definition2{
+  display: none;
+}
+
+.clickable1{
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.clickable2{
+  font-weight: bold;
+  cursor: pointer;
+}
+ li{
+   padding-bottom: 10px;
+ }
